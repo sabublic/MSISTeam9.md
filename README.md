@@ -1,4 +1,3 @@
-Samuel Bublick
-Antoine Van Dyke
+awvandyke
 bmadaiah
 aasikosk
