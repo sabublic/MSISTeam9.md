@@ -8,6 +8,10 @@
   background-color: rgb(230,230,230);
 }
 
+body {background-color: coral;}
+
+
+
 .patientWaiting {
   background-color: white;
   margin: 6px;
